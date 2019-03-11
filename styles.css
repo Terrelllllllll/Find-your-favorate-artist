@@ -1,0 +1,30 @@
+    h1 {
+    color:red;
+    background-color: black;
+    text-align: left;
+    font-size: 66px;
+    
+    text-decoration: line-through;
+    
+    border-style: dotted;
+    border-width: 6px;
+    border-color: yellow;
+}
+
+
+h3 {
+    color:pink;
+    font-family: 'Bai Jamjuree', sans-serif;
+
+}
+
+h2 {
+    color:purple;
+font-family: 'Cedarville Cursive', cursive;
+
+}
+
+h2 {
+    color:silver;
+    font-family: 'Mali', cursive;
+}
